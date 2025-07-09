@@ -1,1 +1,1 @@
-# mofaq-lectures
+# info
