@@ -5,7 +5,7 @@ const events = [
         title: "BSOK Bootcamp: Integrate Deep Learning models into a Microservices App",
         date: "Thursday, July 15, 2021",
         attendees: 5,
-        image: "",
+        image: "images/event0.webp",
         description: `Deploy and consume ready-to-use deep learning microservices on OpenShift. Data contains a wealth of information that can be used to solve certain types of problems. Traditional data analysis approaches, like a person manually inspecting the data or a specialized computer program that automates the human analysis, quickly reach their limits due to the amount of data to be analyzed or the complexity of the problem.`,
         url: "https://www.meetup.com/ibm-developer-ksa/events/279271102/?eventOrigin=group_events_list"
     },
@@ -28,12 +28,12 @@ const events = [
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/278446631/?eventOrigin=your_events"
     },
      {
-        id: 01,
+        id: 21,
         title: "Build scalable solutions with Docker and IBM Cloud Container Registry",
         date: "Thursday, May 27, 2021",
         attendees: 2,
-        image: "",
-        description: `later`,
+        image: "images/event01.webp",
+        description: `This event focuses on building scalable solutions using Docker and IBM Cloud Container Registry, covering Docker architecture, its benefits, and a hands-on lab for containerizing Node.js applications.`,
         url: "https://www.meetup.com/ibm-developer-ksa/events/278108491/?eventOrigin=group_events_list"
     },
     {
@@ -92,83 +92,83 @@ const events = [
     },
     {
         id: 9,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "Deploy end to end deep learning microservices app on Red Hat OpenShift",
+        date: "Wednesday, September 30, 2020",
+        attendees: 13,
         image: "images/event9.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar teaches how to deploy and consume ready-to-use deep learning microservices on Red Hat OpenShift on IBM Cloud, including deploying object detector and image caption generator microservices.`,
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/272933783/?eventOrigin=your_events"
     },
     {
         id: 10,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "Automate model building with AutoAI Cloud Pak for Data",
+        date: "Friday, August 28, 2020",
+        attendees: 9,
         image: "images/event10.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar covers the fundamentals and benefits of AutoAI services on IBM Watson Studio, demonstrating how to automate model building for regression and classification problems without code.`,
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/272632119/?eventOrigin=your_events"
     },
     {
         id: 11,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "(English): Build a Docker container and Deploy it onto Red Hat OpenShift",
+        date: "Sunday, July 19, 2020",
+        attendees: 18,
         image: "images/event11.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar teaches how to write Dockerfiles, execute them in containers, and deploy them on OpenShift.`,
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/271452744/?eventOrigin=your_events"
     },
     {
         id: 14,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "(English): COVID-19 Research assistant: Watson Discovery in Healthcare",
+        date: "Thursday, June 18, 2020",
+        attendees: 22,
         image: "images/event14.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar teaches how Watson Discovery can be used to combat world-wide issues like COVID-19, demonstrating how to utilize a search engine to navigate articles and retrieve answers from trustable sources.`,
         url: "https://www.meetup.com/ibm-developer-ksa/events/270912437/?eventOrigin=your_events"
     },
     {
         id: 15,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "(English): Data Science in Transportation Industry",
+        date: "Wednesday, June 10, 2020",
+        attendees: 29,
         image: "images/event15.webp",
-        description: ``,
+        description: `This webinar explores data science applications in the transportation industry, covering business understanding, AI vision, machine learning, deep learning, and object detection.`,
         url: "https://www.meetup.com/ibm-developer-ksa/events/270912339/?eventOrigin=your_events"
     },
     {
         id: 16,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "(English): Create an Object Detection app using IBM Cloud",
+        date: "Saturday, May 30, 2020",
+        attendees: 8,
         image: "images/event16.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar provides a step-by-step tutorial on building an object detection app using IBM Cloud, enhancing knowledge in cloud technologies and integrating skills with IBM services.`,
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/270315504/?eventOrigin=your_events"
     },
     {
         id: 17,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "Call For Code (English): Build an app using the Disaster Resiliency Starter Kit",
+        date: "Thursday, May 14, 2020",
+        attendees: 8,
         image: "images/event17.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar teaches how to build an app using the Disaster Resiliency Starter Kit, which includes a React Native frontend and Node.js backend integrated with Watson Assistant and Here Location Services.`,
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/270312925/?eventOrigin=your_events"
     },
     {
         id: 19,
-        title: "",
-        date: "",
-        attendees: 6,
+        title: "Call For Code - Webinar (Arabic): Build a Video Transcriber Service",
+        date: "Friday, April 17, 2020",
+        attendees: 8,
         image: "images/event19.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar introduces Call for Code and demonstrates building an Arabic video transcriber service.`,
         url: "https://www.meetup.com/ibm-developer-ksa/events/270077707/?eventOrigin=your_events"
     },
     {
         id: 20,
-        title: "",
-        date: "",
+        title: "Call For Code - Webinar (Arabic): Build a Video Transcriber Service",
+        date: "Tuesday, April 14, 2020",
         attendees: 6,
         image: "images/event20.webp",
-        description: `sumarized in one sentence`,
+        description: `This webinar focuses on building a video transcriber service in Arabic, as part of the Call for Code initiative addressing COVID-19 and Climate Change.`,
         url: "https://www.meetup.com/ibm-cloud-mea/events/269972773/?eventOrigin=your_events"
     },
     {
@@ -257,4 +257,3 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Make openModal function global so it can be called from onclick
 window.openModal = openModal;
-
