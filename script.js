@@ -100,24 +100,6 @@ const events = [
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/271452744/?eventOrigin=your_events"
     },
     {
-        id: 12,
-        title: "",
-        date: "",
-        attendees: 6,
-        image: "images/event12.webp",
-        description: `sumarized in one sentence`,
-        url: "https://www.meetup.com/ibm-developer-ksa/events/270912467/?eventOrigin=your_events"
-    },
-    {
-        id: 13,
-        title: "",
-        date: "",
-        attendees: 6,
-        image: "images/event13.webp",
-        description: `sumarized in one sentence`,
-        url: "https://www.meetup.com/ibmdeveloper-dubai/events/271030213/?eventOrigin=your_events"
-    },
-    {
         id: 14,
         title: "",
         date: "",
@@ -154,15 +136,6 @@ const events = [
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/270312925/?eventOrigin=your_events"
     },
     {
-        id: 18,
-        title: "",
-        date: "",
-        attendees: 6,
-        image: "images/event18.webp",
-        description: `sumarized in one sentence`,
-        url: "https://www.meetup.com/ibm-developer-ksa/events/270263642/?eventOrigin=your_events"
-    },
-    {
         id: 19,
         title: "",
         date: "",
@@ -181,42 +154,6 @@ const events = [
         url: "https://www.meetup.com/ibm-cloud-mea/events/269972773/?eventOrigin=your_events"
     },
     {
-        id: 21,
-        title: "",
-        date: "",
-        attendees: 6,
-        image: "images/event21.webp",
-        description: `sumarized in one sentence`,
-        url: "https://www.meetup.com/ibmdeveloper-dubai/events/269959741/?eventOrigin=your_events"
-    },
-    {
-        id: 22,
-        title: "",
-        date: "",
-        attendees: 6,
-        image: "images/event22.webp",
-        description: `sumarized in one sentence`,
-        url: "https://www.meetup.com/ibm-developer-ksa/events/269953231/?eventOrigin=your_events"
-    },
-    {
-        id: 23,
-        title: "Enabling Trust and Transparency in AI",
-        date: "Monday, February 17, 2020",
-        attendees: 32,
-        image: "images/event23.webp",
-        description: `This event addresses the challenge of trust and transparency in AI, showcasing how IBM AI OpenScale provides visibility, control, and improvement capabilities for AI deployments.`,
-        url: "https://www.meetup.com/ibmdeveloper-dubai/events/268137281/?eventOrigin=your_events"
-    },
-    {
-        id: 24,
-        title: "Webinar: Fraud Prediction using AutoAI",
-        date: "Wednesday, February 12, 2020",
-        attendees: 46,
-        image: "images/event24.webp",
-        description: `This webinar focuses on using IBM's AutoAI to automate the building of predictive models, specifically for fraud detection, to save time and effort in various scenarios.`,
-        url: "https://www.meetup.com/ibmdeveloper-dubai/events/268209729/?eventOrigin=your_events"
-    },
-    {
         id: 25,
         title: "IBM Power AI Vision workshop",
         date: "Sunday, February 2, 2020",
@@ -224,24 +161,6 @@ const events = [
         image: "images/event25.webp",
         description: `This workshop teaches how to build iOS, Android, or Web React apps for object detection using IBM Power AI Vision, IBM Cloud Object Storage, and IBM Machine Learning.`,
         url: "https://www.meetup.com/ibm-developer-ksa/events/268261069/?eventOrigin=your_events"
-    },
-    {
-        id: 26,
-        title: "",
-        date: "",
-        attendees: 6,
-        image: "images/event26.webp",
-        description: `sumarized in one sentence`,
-        url: "https://www.meetup.com/ibm-developer-ksa/events/267394358/?eventOrigin=your_events"
-    },  
-    {
-        id: 27,
-        title: "(استفهامات حول الذكاء الاصطناعي و علم البيانات - (نقاش مفتوح",
-        date: "Sunday, December 15, 2019",
-        attendees: 174,
-        image: "images/event27.webp",
-        description: `An open discussion on artificial intelligence and data science, featuring Saudi experts, addressing questions about data privacy and the nature of big data.`,
-        url: "https://www.meetup.com/ibm-developer-ksa/events/266974086/?eventOrigin=your_events"
     },
 ];
 
