@@ -1,5 +1,14 @@
 // Event data extracted from Meetup with actual images
 const events = [
+       {
+        id: 0,
+        title: "BSOK Bootcamp: Integrate Deep Learning models into a Microservices App",
+        date: "Thursday, July 15, 2021",
+        attendees: 5,
+        image: "",
+        description: `Deploy and consume ready-to-use deep learning microservices on OpenShift. Data contains a wealth of information that can be used to solve certain types of problems. Traditional data analysis approaches, like a person manually inspecting the data or a specialized computer program that automates the human analysis, quickly reach their limits due to the amount of data to be analyzed or the complexity of the problem.`,
+        url: "https://www.meetup.com/ibm-developer-ksa/events/279271102/?eventOrigin=group_events_list"
+    },
     {
         id: 1,
         title: "Introduction to Containers with Node.js and Kubernetes on Red Hat OpenShift 4.x",
@@ -17,6 +26,15 @@ const events = [
         image: "images/event2.webp",
         description: `In this session, we will introduce to you the Red Hat OpenShift Container Platform. What is it exactly? What are the benefits of using it, and how can it add to an organization? We will go through some of the platform's specifications and capabilities, features, and benefits that mostly encourage developers to learn all about it and organizations to adapt to it.`,
         url: "https://www.meetup.com/ibmdeveloper-dubai/events/278446631/?eventOrigin=your_events"
+    },
+     {
+        id: 01,
+        title: "Build scalable solutions with Docker and IBM Cloud Container Registry",
+        date: "Thursday, May 27, 2021",
+        attendees: 2,
+        image: "",
+        description: `later`,
+        url: "https://www.meetup.com/ibm-developer-ksa/events/278108491/?eventOrigin=group_events_list"
     },
     {
         id: 3,
