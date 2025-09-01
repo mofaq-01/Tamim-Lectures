@@ -1,2 +1,2 @@
 
-https://mofaq-01.github.io/mofaq-lectures/ 
+https://mofaq-01.github.io/Tamim-lectures/ 
